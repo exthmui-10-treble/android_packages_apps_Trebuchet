@@ -17,6 +17,9 @@
     <string name="title_show_google_app">Shfaq Google app</string>
     <string name="msg_minus_one_on_left">Kur rëshket djathtas nga faqja kryesore</string>
     <string name="msg_minus_one_on_right">Kur rëshket majtas nga faqja kryesore</string>
+    <string name="settings_category_apps">Aplikacionet</string>
+    <string name="settings_category_desktop">Desktop</string>
+    <string name="settings_category_labels">Etiketa</string>
     <string name="settings_edit_allow_title">Lejo redaktimin</string>
     <string name="settings_edit_allow_summary_on">Ikonat dhe veglat mund të shtohen, hiqen dhe zhvendosen në ekranin kryesor</string>
     <string name="settings_edit_allow_summary_off">Ikonat dhe veglat nuk mund të shtohen, hiqen dhe zhvendosen në ekranin kryesor</string>
@@ -33,4 +36,7 @@
     <string name="trust_apps_info_hidden">Aplikacionet e fshehura dhe mjetet e tyre fshihen nga dizenjuesi</string>
     <string name="trust_apps_info_protected">Aplikacionet e mbrojtura kushtëzojnë vërtetim nga hapja e menu -së</string>
     <string name="icon_pack_title">Paketë ikonash</string>
+    <string name="icon_pack_default_label">E paracaktuar</string>
+    <string name="icon_pack_add">Instaloni më shumë</string>
+    <string name="icon_pack_no_market">Nuk ka asnjë dyqan aplikacioni të disponueshëm</string>
 </resources>
